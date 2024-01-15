@@ -13,11 +13,21 @@ I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on co
 <table>
 <tr>
   <td>
-  Professional Positions
+  <b>Professional Positions</b>
   </td>
   <td>
   Education
   </td>
+</tr>
+<tr>
+<td>
+
+</td>
+
+<td>
+<div> class=col-md-7><div class=section-subheading>Education</div><ul class="ul-edu fa-ul mb-0"><li><i class="fa-li fa-solid fa-graduation-cap"></i><div class=description><p class=course>PhD in Artificial Intelligence, 2012</p><p class=institution>Stanford University</p></div></li><li><i class="fa-li fa-solid fa-graduation-cap"></i><div class=description><p class=course>MEng in Artificial Intelligence, 2009</p><p class=institution>Massachusetts Institute of Technology</p></div></li><li><i class="fa-li fa-solid fa-graduation-cap"></i><div class=description><p class=course>BSc in Artificial Intelligence, 2008</p><p class=institution>Massachusetts Institute of Technology</p></div>
+</td>
+
 </tr>
 
 </table>
