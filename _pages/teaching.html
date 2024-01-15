@@ -10,3 +10,40 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+<div class="entry-content" itemprop="text">
+  <h2 class="fac-title text-center" style="color:#4b4b4b">Recent Research Projects</h2>
+<h3>Informational Content Indexing</h3>
+<div class="details" style="display: block;">
+<p>Today informational videos containing talks, lectures or interviews are only searchable by the title or tags that are inserted by the video creator or viewers. Searching for points of interest, such as important topics being discussed, slides presented or question being asked, is still not possible. In this project we are  developing multi-modal algorithms that can extract exact location of key-moments in a video and turns into a browseable Table of Contents (TOC) for the video. The algorithms we developed cut across number of computer vision problems areas including temporal video segmentation, text detection, OCR in the wild, object discovery, scene classification and object detection. These algorithms make use of traditional as well as deep learning based techniques to solve the problem at hand. The following video shows a a sample TOC produced by the system:</p>
+<div width="100%" align="center">
+<iframe src="./Research – Saad Ali_files/yt-CBYhVcO4WgI.html" height="450" width="85%" border="0" allowfullscreen="true" style="max-width: 100%; max-height: 100%; border:1px solid #CCC;"></iframe></div>
+<p>For more details see:</p>
+<p><span class="label patent_label">Patent</span> Zia Syed, Syed Farhan Raza Zaidi, Saad Ali, Ivana Savic, Omar Javed,  <a href="https://web.archive.org/web/20161118085217/http://www.saadali-research.com/wp/wp-content/uploads/2016/06/pat20150139610.pdf"><font color="#000000" size="3"><b>Computer Assisted Collaborative Tagging of Video Content for Indexing and Table of Contents Generation</b></font></a>, US Patent 20150139610, 2015.</p>
+<h2 class="fac-title text-center" style="color:#4b4b4b"></h2>
+<h3>Visual Media Reasoning</h3>
+<div class="details" style="display: block;">
+<p>The goal of Visual Media Reasoning (VMR) was to answer when, where &amp; who question for any image. That is, where the image was taken, when was it taken and who is in the image. As part of the SRI team working on this project, we developed back-end infrastructure and a web API for serving a large number of open source computer vision algorithms, benchmark datasets, and performance characteristics of algorithms. It was a challenging undertaking as the design needed to handle various flavors of vision algorithms (object detection, pixel processing, semantic labeling, feature computation, indexing), had to be extensible, and needed to support algorithm’s native OS  (Linux, Windows) and programming environments (C++, Matlab). In addition, we characterized behavior of algorithms with respect to its parameter space and imaging conditions (blur, noise level etc.). This allowed users to select best parameter settings for a particular image before calling the algorithm. </p>
+<p>For more details see:</p>
+<p><span class="label patent_label">Patent</span> HS Sawhney, J Eledath, S Ali, BC Matei, SS Weiner, X Lv, <a href="https://web.archive.org/web/20161118085217/http://www.saadali-research.com/wp/wp-content/uploads/2016/06/pat9152870.pdf"><font color="#000000" size="3"><b>Computer Vision as a Service</b></font></a>, US Patent 9152870, 2015.</p>
+<h2 class="fac-title text-center" style="color:#4b4b4b"></h2>
+<h3>Automated Low-Level Analysis and Description of Diverse Intelligence Video</h3>
+<div class="details" style="display: block;">
+<p>
+The goal of this project was to perform event based indexing of open-source videos in such a way that a retrieval algorithm is able to explain (known as ‘recounting’) its retrieved results. To address this problem we designed and developed a system where we incorporated various low-level features that capture color, appearance, motion, and audio information in videos. Based on these low-level features, we developed fixed-Pattern and object-oriented spatial feature pooling schemes which resulted in significant performance gains. In addition, we collected more than 1800 concepts and designed a set of concept pooling approaches to build the Concept Based Event Representation (CBER, i.e., high-level features). For recounting purposes, we developed an approach to provide a breakdown of the evidences of why a retrieval decision has been made by exploring the SVM-based event detectors.</p>
+<p>For more details see:</p>
+<p><span class="label workshop_label">Workshop</span> Jingen Liu, Qian Yu, Omar Javed, Saad Ali, Amir Tamrakar, Ajay Divakaran, Hui Cheng, Harpreet Sawhney,  <a href="https://web.archive.org/web/20161118085217/http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6475038"><font color="#000000" size="3"><b>Video Event Recognition Using Concept Attributes</b></font></a>, IEEE Workshop on Applications of Computer Vision (WACV), 2013. [<a href="https://web.archive.org/web/20161118085217/https://drive.google.com/open?id=0B1hTTVwMuOExbkRWMVFwTVI3cWM">Bibtex</a>]</p>
+<p><span class="label patent_label">Patent</span> Hui Cheng, Harpreet Singh Sawhney, Ajay Divakaran, Qian Yu, Jingen Liu, Amir Tamrakar, Saad Ali, Omar Javed, <a href="https://web.archive.org/web/20161118085217/http://www.saadali-research.com/wp/wp-content/uploads/2016/06/pat9244924.pdf"><font color="#000000" size="3"><b>Classification, Search, and Retrieval of Complex Video Events</b></font></a>, US Patent 9244924, 2013.</p>
+<p><span class="label conf_label">Conference</span> Saad Ali, <a href="https://web.archive.org/web/20161118085217/http://www.saadali-research.com/wp/wp-content/uploads/2016/06/FlowComplexity_ICCV2013.pdf"><font color="#000000" size="3"><b>Measuring Flow Complexity in Videos</b></font></a>, IEEE 14th International Conference on Computer Vision (ICCV), Sydney, Australia, December 1-8, 2013. &nbsp;[<a href="https://web.archive.org/web/20161118085217/https://drive.google.com/open?id=0B1hTTVwMuOExemFZMk9EeWxDdkk">Bibtex</a>]</p>
+<p><span class="label conf_label">Conference</span> Amir Tamrakar, Saad Ali, Qian Yu, Jingen Liu, Omar Javed, Ajay Divakaran, Hui Cheng, and Harpreet Sawhney, <a href="https://web.archive.org/web/20161118085217/http://www.saadali-research.com/wp/wp-content/uploads/2016/06/EvaluationOfLowLevelFeatures_CVPR2012.pdf"><font color="#000000" size="3"><b>Evaluation of Low Level Features and their Combinations for Complex Event Detection in Open Source Videos</b></font></a>, IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Providence, Rhode Island, June 16-21, 2012. &nbsp;[<a href="https://web.archive.org/web/20161118085217/https://dl.dropboxusercontent.com/u/7496054/Research/Publications/EvaluationOfLowLevelFeatures_CVPR2012.bib" target="_blank">Bibtex</a>]</p>
+<p><span class="label workshop_label">Workshop</span> Hui Cheng, Jingen Liu, Saad Ali, Omar Javed, Qian Yu, Amir Tamrakar, Ajay Divakaran, Harpreet Sawhney, <a href="https://web.archive.org/web/20161118085217/http://www-nlpir.nist.gov/projects/tvpubs/tv12.papers/aurora.pdf"><font color="#000000" size="3"><b>SRI-Sarnoff AURORA System at TRECVID 2012 – Multimedia Event Detection and Recounting</b></font></a>, Proceedings of NIST TRECVID Workshop, December 2012. [<a href="https://web.archive.org/web/20161118085217/http://www-nlpir.nist.gov/projects/tvpubs/tv12.papers/aurora.pdf">PDF</a>][<a href="https://web.archive.org/web/20161118085217/http://www-nlpir.nist.gov/projects/tvpubs/tv12.slides/tv12.aurora.med.slides.pdf">Slides</a>]</p>
+<h3>Previous Projects</h3>
+<p>These are some of the previous projects (2004-2009) that I worked on:</p>
+<ul>
+<li>Video Analysis and Content Extraction – 2006-2008</li>
+<li>Outdoor Driving Scene Analysis – NAVTEQ – 2008-2009</li>
+<li>Nighttime Surveillance – 2005 </li>
+<li>Aerial Video Indexing and Retrieval – 2006-2008</li>
+</ul>
+      </div>
