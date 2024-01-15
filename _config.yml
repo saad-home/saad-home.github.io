@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Saad Ali"
   avatar           : "profile.png"
-  bio              : "Researcher and technical leader with 13+ years of experience in building computer vision (CV), information retrieval, and machine learning solutions at scale. Strong track record of conducting high impact and highly cited CV research. Currently at Twitch focusing on solving problems related to content personalization."
+  bio              : "Building content undersatnding and personalization solutions for Twitch"
   location         : "San Francisco, CA"
   employer         : "Twitch (Amazon)"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=pcIBumQAAAAJ&hl=en"
   email            :
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         : https://www.linkedin.com/in/saad-ali-416888b/
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
