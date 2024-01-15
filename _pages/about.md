@@ -14,15 +14,40 @@ I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on co
 <table>
 <tr>
   <td>
-  <b>Professional Positions</b>
+  <b>Experience</b>
   </td>
   <td>
-  Education
+  <b>Education</b>
   </td>
 </tr>
 <tr>
 <td>
+<ul>
+<li>
+<p>2021 - Present, Principal Applied Scientist</p>
+<p>Twitch</p>
+</li>
+<li>
+<p>2016 - 2021, Senior Applied Scientist</p>
+<p>Twitch</p>
+</li>
 
+<li>
+<p>2014-2016 Principal Research Scientist</p>
+<p>ClipMine</p>
+</li>
+
+<li>
+<p>2009-2014 Research Scientist</p>
+<p>SRI International</p>
+</li>
+
+<li>
+<p>2008-2009 Post Doctoral Fellow</p>
+<p>Carnegie Mellon University</p>
+</li>
+
+</ul>
 </td>
 
 <td>
