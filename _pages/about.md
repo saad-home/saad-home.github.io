@@ -7,6 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.ul-edu {
+    list-style: none;
+  }
+
+  .ul-edu li {
+    position: relative;
+    padding: 0 15px 4px 3px;
+  }
+
+  .ul-edu li .description p {
+    margin: 0;
+  }
+
+  .ul-edu li .description p.course {
+    font-size: 0.9rem;
+  }
+
+  .ul-edu li .description p.institution {
+    font-size: 0.75rem;
+
+    /* color: rgba(0, 0, 0, 0.6); */
+  }
+
+</style>
 
 I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on content understanding and personalization.
 

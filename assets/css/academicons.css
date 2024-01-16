@@ -265,7 +265,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
@@ -324,4 +324,26 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
+}
+.ul-edu {
+  list-style: none;
+}
+
+.ul-edu li {
+  position: relative;
+  padding: 0 15px 4px 3px;
+}
+
+.ul-edu li .description p {
+  margin: 0;
+}
+
+.ul-edu li .description p.course {
+  font-size: 0.9rem;
+}
+
+.ul-edu li .description p.institution {
+  font-size: 0.75rem;
+
+  /* color: rgba(0, 0, 0, 0.6); */
 }
