@@ -10,6 +10,9 @@ redirect_from:
 
 I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on content understanding and personalization.
 
+<div class=section-subheading>Education</div><ul class="ul-edu fa-ul mb-0"><li><i class="fa-li fa-solid fa-graduation-cap"></i><div class=description><p class=course>PhD in Artificial Intelligence, 2012</p><p class=institution>Stanford University</p></div></li>
+
+
 
 <table>
 <tr>
@@ -52,7 +55,7 @@ I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on co
 
 <td>
 
-<div class=section-subheading>Education</div><ul class="ul-edu fa-ul mb-0"><li><i class="fa-li fa-solid fa-graduation-cap"></i><div class=description><p class=course>PhD in Artificial Intelligence, 2012</p><p class=institution>Stanford University</p></div></li>
+
 
 <ul>
 <li>
