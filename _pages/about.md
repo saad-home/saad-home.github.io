@@ -54,7 +54,7 @@ I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on co
 
 <ul>
 <li>
-<p>PhD in Computer Science, 2008</p>
+<i class="fas fa-fw fa-graduation-cap"></i><p>PhD in Computer Science, 2008</p>
 <p>University of Central Florida</p>
 </li>
 <li>
