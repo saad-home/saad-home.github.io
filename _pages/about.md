@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
+<!-- <style>
 .ul-edu {
     list-style: none;
   }
@@ -31,7 +31,7 @@ redirect_from:
     /* color: rgba(0, 0, 0, 0.6); */
   }
 
-</style>
+</style> -->
 
 I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on content understanding and personalization.
 
