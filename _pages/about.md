@@ -78,9 +78,17 @@ I am a Principal Applied Scientist at Twitch (Amazon). My research focuses on co
 </ul>
 </td>
 
-<td>
+<td width="75%">
 
-<ul class="ul-edu fa-ul mb-0"><li><i class="fas fa-fw fa-graduation-cap"></i><div class=description><p class=course>PhD in Artificial Intelligence, 2012</p><p class=institution>Stanford University</p></div></li>
+<ul class="ul-edu fa-ul mb-0">
+
+<li>
+  <i class="fa-li fa-solid fa-graduation-cap"></i>
+  <div class=description>
+    <p class=course>PhD in Artificial Intelligence, 2012</p>
+    <p class=institution>Stanford University</p>
+  </div>
+</li>
 
 
 <ul>
